@@ -4,7 +4,7 @@
 ### Sistema de monitoramento de movimentos utilizando sensor flexível e ESP32
 
 <p align="center">
-  <img src="docs/images/banner.png" alt="FlexMotion" width="800">
+  <img src="docs/imagens/projeto.png" alt="FlexMotion" width="800">
 </p>
 
 <p align="center">
